@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = "75e1d0213ab1433ebada0c3c32dc6770";
-const redirectUrl = "http://localhost:3000/callback/";
+const redirectUrl = "https://eiyen.github.io/jammming/";
 
 const Spotify = {
 
